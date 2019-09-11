@@ -1,2 +1,2 @@
 Hello!
-this is the second line of readme :)
+this is the second line of readme
